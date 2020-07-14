@@ -74,7 +74,7 @@ div.paras-div{
   clear: right;
   padding: 10px 10px;
 }
-@media (min-width:768px) and (max-width:1199px){
+@media (min-width:768px) and (max-width:991px){
   div.col-4{
     width: 50%;
   }
